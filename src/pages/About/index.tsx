@@ -7,6 +7,7 @@ const About = () => {
     <>
         <Link end to={'/'}>Home page</Link>
       <h1>About page</h1>
+      <p>Moi olen Janne, ja haluan oppia koodaamaa.</p>
     </>
   );
 };
